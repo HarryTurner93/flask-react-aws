@@ -5,7 +5,7 @@ const About = () => (
     <h1 className="title is-1">About</h1>
     <hr />
     <br />
-    <p className="content">Something relevant.</p>
+    <p className="content">This is the about page.</p>
   </div>
 );
 
